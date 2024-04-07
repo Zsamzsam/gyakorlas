@@ -1,1 +1,1 @@
-# gyakorlas
+Egy oldal amin szavazni lehet.
