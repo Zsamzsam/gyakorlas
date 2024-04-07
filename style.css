@@ -39,10 +39,12 @@ td{
     padding-right: 5px;
 }
 
-#button_1{
-    margin-top: 20px;
-}
-#button_2{
-    margin-top: 20px;
+button{
+    padding-top: 6px;
+    padding-left: 6px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 30px;
+    margin-left: 70px;
 }
 
